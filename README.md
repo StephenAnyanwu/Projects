@@ -1,2 +1,2 @@
 # Projects
-This repository contains basic random projects
+This repository contains basic random project.
